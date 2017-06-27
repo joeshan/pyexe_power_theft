@@ -1,2 +1,3 @@
 # pyexe_power_theft
-An exercise to detect power theft 
+An Python exercise to detect power theft.
+Decision tree (CART) was used.
